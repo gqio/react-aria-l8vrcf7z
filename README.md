@@ -7,7 +7,7 @@ This is a _Technology Sample_ you can rely on to build your own Design System, b
 
 **Disclaimer**: _Technology Samples_ aren't comprehensive _Design Systems_ but showcases a given technology so you free to build you own solution upon it.
 
-## Architecture
+## Architecture 1
 
 This _tech sample_ uses [React](https://reactjs.org/) and [JSX](https://reactjs.org/docs/introducing-jsx.html) to implement its components with [TypeScript](https://www.typescriptlang.org/). It relies on [React Aria](https://react-spectrum.adobe.com/react-aria/), which is a part of the _Adobe Spectrum Design System_. React Aria provides a collection of _React Hooks_ to handle the accessibility and navigation behaviors, allowing you to set a proper interaction layer for all of your components.
 
